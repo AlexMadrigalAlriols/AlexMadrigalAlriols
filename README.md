@@ -3,6 +3,6 @@
 
 <h5> Description </h5>
 
-- 👯 I’m looking to collaborate on Developer Project
+- 👯 I’m looking to collaborate on a Developer Project
 - 💬 Ask me about any thing!
 
