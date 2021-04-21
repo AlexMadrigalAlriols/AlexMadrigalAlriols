@@ -1,5 +1,5 @@
-# <center> My Name is Alex Madrigal </center>
-#### 🖥️ And Im a Programmer and a Web Designer 🖥️
+# <center align="center"> My Name is Alex Madrigal </center>
+### 🖥️ And Im a Programmer and a Web Designer 🖥️
  Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
