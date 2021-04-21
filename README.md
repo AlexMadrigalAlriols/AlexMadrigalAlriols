@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**AlexMadrigalAlriols/AlexMadrigalAlriols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# My Name is Alex Madrigal
+#### 🖥️ And Im a Programmer and a Web Designer 🖥️
+ Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
