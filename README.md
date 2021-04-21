@@ -1,4 +1,4 @@
-# <center align="center"> My Name is Alex Madrigal </center>
+# <h1 align="center"> My Name is Alex Madrigal </h1>
 ### 🖥️ And Im a Programmer and a Web Designer 🖥️
  Here are some ideas to get you started: 
 
