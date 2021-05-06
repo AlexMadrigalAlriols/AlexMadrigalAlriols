@@ -12,12 +12,12 @@
 <a href="https://www.linkedin.com/in/alex-madrigal-alriols-65b54b211/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexxmadrigal" height="30" width="40" /></a>
 <a href="https://instagram.com/alexxmadrigal_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="really_maku.qp" height="30" width="40" /></a>
 <a href="https://discord.gg/YxkrVFkz8j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="YxkrVFkz8j" height="30" width="40" /></a>
-<a href="https://discord.gg/YxkrVFkz8j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="YxkrVFkz8j" height="30" width="40" /></a>
+<a href="https://discord.gg/YxkrVFkz8j" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="YxkrVFkz8j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank"> 
 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
@@ -33,4 +33,5 @@
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-<a href="https://www.unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p></p>
+<a href="https://www.unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+</p>
