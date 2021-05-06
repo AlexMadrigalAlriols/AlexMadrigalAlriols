@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-madrigal-alriols-65b54b211/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexxmadrigal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alex-madrigal-alriols-65b54b211/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="alexxmadrigal" height="30" width="40" /></a>
 <a href="https://instagram.com/alexxmadrigal_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="really_maku.qp" height="30" width="40" /></a>
 <a href="https://discord.gg/YxkrVFkz8j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="YxkrVFkz8j" height="30" width="40" /></a>
 <a href="https://discord.gg/YxkrVFkz8j" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="YxkrVFkz8j" height="30" width="40" /></a>
