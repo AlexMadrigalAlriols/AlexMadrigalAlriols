@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="csharp" width="40" height="40"/> </a> 
 
