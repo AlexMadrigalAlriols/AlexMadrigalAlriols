@@ -9,7 +9,7 @@ h1> Hello World < Developers/ >! <img src = "https://raw.githubusercontent.com/M
 <div size='20px'> Hi! My name is Alex Madrigal. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width = 30px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
