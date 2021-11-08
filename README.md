@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-madrigal-alriols-65b54b211/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="alexxmadrigal" height="30" width="40" /></a>
-<a href="https://instagram.com/alexxmadrigal_" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://discord.gg/YxkrVFkz8j" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://discord.gg/YxkrVFkz8j" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" height="30" width="40" /></a>
-</p>
+
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojuppala/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FManoj_0863&screen_name=Manoj_0863)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
