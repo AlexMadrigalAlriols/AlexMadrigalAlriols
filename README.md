@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Instagram](https://img.shields.io/badge/instagram-%23FF0000.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojuppala/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FManoj_0863&screen_name=Manoj_0863)
