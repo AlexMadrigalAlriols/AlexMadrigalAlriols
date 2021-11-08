@@ -4,7 +4,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=AlexMadrigalAlriols.AlexMadrigalAlriols)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/AlexMadrigalAlriols)
 
-<h5> Description </h5>
+<h4> Description </h4>
 <p> My name is Alex Madrigal and I'm 18 years old.</p>
 
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
