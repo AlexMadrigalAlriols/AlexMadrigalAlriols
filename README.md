@@ -1,6 +1,9 @@
 <h1 align="center"> 👾 My Name is Alex Madrigal 👾 </h1>
 <h2 align="center"> 🖥️ And I'm a FullStack Developer 🖥️ </h2>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=AlexMadrigalAlriols.AlexMadrigalAlriols)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/AlexMadrigalAlriols)
+
 <h5> Description </h5>
 <p> My name is Alex Madrigal and I'm 18 years old.</p>
 
