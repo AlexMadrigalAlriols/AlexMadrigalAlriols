@@ -1,7 +1,6 @@
 <h1 align="center"> 👾 My Name is Alex Madrigal 👾 </h1>
 <h2 align="center"> 🖥️ And I'm a FullStack Developer 🖥️ </h2>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=AlexMadrigalAlriols.AlexMadrigalAlriols)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/AlexMadrigalAlriols)
 
 <h4> Description </h4>
