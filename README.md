@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://laravel.com" target="_blank"><img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://php.net" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://php.net" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40"/> </a> 
   
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
